@@ -81,9 +81,9 @@ logo                     : /media/logo.png
 
 # Site Author
 author:
-  name             : "Alex LaGrassa"
-  avatar           :  "/media/bio.jpg"
-  bio              : "Robotics PhD candidate interested in model-based planning with inaccurate models and sharing information with others about AI and robotics through hands-on learning."
+  name: "Alex LaGrassa"
+  avatar: "/media/bio.jpg"
+  bio: "Robotics PhD candidate interested in model-based planning with inaccurate models and sharing information with others about AI and robotics through hands-on learning."
   location         : "Pittsburgh, PA"
   email            : "lagrassa at cmu dot edu
   links:
