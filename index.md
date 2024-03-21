@@ -1,5 +1,4 @@
 ---
-title: Alex LaGrassa
 ---
 
 ## Alex LaGrassa
