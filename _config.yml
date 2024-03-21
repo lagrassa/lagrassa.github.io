@@ -85,7 +85,7 @@ author:
   avatar: "/media/bio.jpg"
   bio: "Robotics PhD candidate interested in model-based planning with inaccurate models and sharing information with others about AI and robotics through hands-on learning."
   location         : "Pittsburgh, PA"
-  email            : "lagrassa at cmu dot edu
+  email            : "lagrassa at cmu dot edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
