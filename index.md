@@ -1,13 +1,11 @@
 ---
 ---
 
-## Alex LaGrassa
-
 <div style="display: flex; flex-direction: row;">
   <img src="./media/bio.jpg" alt="Smiling white person in front of brick wall" style="margin-right: 1em;">
 </div>
-
-I'm a PhD candidate in robotics at CMU. I'm interested in teaching robotics, programming, and AI to enable more people to use these tools. My research interests are how to use inaccurate models for planning so robots can solve tasks with imperfect information about how the world changes as the robot acts in it. 
+**Bio**
+I'm a PhD candidate in robotics at CMU. I'm interested in teaching robotics, programming, and AI. My research interest is robots learning to plan with inaccurate models. 
 
 
 
